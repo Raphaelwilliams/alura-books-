@@ -18,3 +18,7 @@ h1 {
     background-position: center;
 }
 @import url("styles/header.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
