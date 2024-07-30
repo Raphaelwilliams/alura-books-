@@ -22,3 +22,9 @@ h1 {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
 }
+:root {
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #eb9b00;
+  }
+  
